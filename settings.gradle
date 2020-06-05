@@ -1,0 +1,2 @@
+rootProject.name='AndroidMultiThreadingSample'
+include ':app'
